@@ -1,3 +1,8 @@
+#########################################################
+# Made by Black man with hate
+#########################################################
+
+
 # main.py
 from cryptograph import CryptographyManager, generate_key, read_file, write_file
 import argparse
